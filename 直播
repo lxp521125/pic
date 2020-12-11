@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T02:05:38.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="P5ilp7RQ0AzZ-hb7erMr" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-11T02:28:55.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="krJXehCsPDQQBbsISHWx" version="13.11.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -196,16 +196,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DzEGcUg4Fncy94uy2uDy-62" value="设置直播间信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=3;" vertex="1" parent="1">
-          <mxGeometry x="130" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DzEGcUg4Fncy94uy2uDy-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=3;" edge="1" parent="1" source="DzEGcUg4Fncy94uy2uDy-64" target="DzEGcUg4Fncy94uy2uDy-68">
+        <mxCell id="DzEGcUg4Fncy94uy2uDy-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=3;" edge="1" parent="1" source="DzEGcUg4Fncy94uy2uDy-70" target="DzEGcUg4Fncy94uy2uDy-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DzEGcUg4Fncy94uy2uDy-64" value="老师开始上课" style="rounded=0;whiteSpace=wrap;html=1;fontSize=3;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DzEGcUg4Fncy94uy2uDy-66" value="roomID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=3;" vertex="1" parent="1">
-          <mxGeometry x="175" y="1065" width="50" height="10" as="geometry" />
+          <mxGeometry x="175" y="1030" width="50" height="10" as="geometry" />
         </mxCell>
         <mxCell id="DzEGcUg4Fncy94uy2uDy-67" value="roomID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=3;" vertex="1" parent="1">
           <mxGeometry x="175" y="925" width="50" height="10" as="geometry" />
@@ -215,17 +215,23 @@
         </mxCell>
         <mxCell id="DzEGcUg4Fncy94uy2uDy-73" value="playURL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=3;" vertex="1" connectable="0" parent="DzEGcUg4Fncy94uy2uDy-72">
           <mxGeometry x="-0.175" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DzEGcUg4Fncy94uy2uDy-68" value="学员进入直播间" style="rounded=0;whiteSpace=wrap;html=1;fontSize=3;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DzEGcUg4Fncy94uy2uDy-70" value="liveID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=3;" vertex="1" parent="1">
-          <mxGeometry x="165" y="1205" width="50" height="10" as="geometry" />
+          <mxGeometry x="130" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DzEGcUg4Fncy94uy2uDy-71" value="看直播||看回放" style="rounded=0;whiteSpace=wrap;html=1;fontSize=3;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1400" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DzEGcUg4Fncy94uy2uDy-70" value="liveID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1140" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DzEGcUg4Fncy94uy2uDy-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=3;" edge="1" parent="1" source="DzEGcUg4Fncy94uy2uDy-64" target="DzEGcUg4Fncy94uy2uDy-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="1120" as="sourcePoint" />
+            <mxPoint x="190" y="1260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
