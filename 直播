@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T06:06:23.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="JgQ_Nut3iN1K8_tZEtPZ" version="14.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T10:02:37.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="aWHH3Vf0bc13bdGG6ufC" version="14.0.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -191,7 +191,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DzEGcUg4Fncy94uy2uDy-61" value="创建直播间" style="rounded=0;whiteSpace=wrap;html=1;fontSize=3;" parent="1" vertex="1">
-          <mxGeometry x="130" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="125" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DzEGcUg4Fncy94uy2uDy-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=3;" parent="1" source="DzEGcUg4Fncy94uy2uDy-62" target="DzEGcUg4Fncy94uy2uDy-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -200,19 +200,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DzEGcUg4Fncy94uy2uDy-62" value="设置直播间信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=3;" parent="1" vertex="1">
-          <mxGeometry x="130" y="950" width="120" height="60" as="geometry" />
+          <mxGeometry x="125" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LtUKKO1fS4CYccdswrtj-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DzEGcUg4Fncy94uy2uDy-64" target="LtUKKO1fS4CYccdswrtj-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iNOOzH1yUP5gLEz1Xqjm-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DzEGcUg4Fncy94uy2uDy-64" target="iNOOzH1yUP5gLEz1Xqjm-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DzEGcUg4Fncy94uy2uDy-64" value="老师开始上课" style="rounded=0;whiteSpace=wrap;html=1;fontSize=3;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="125" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DzEGcUg4Fncy94uy2uDy-66" value="roomID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=3;" parent="1" vertex="1">
-          <mxGeometry x="175" y="1030" width="50" height="10" as="geometry" />
+          <mxGeometry x="170" y="950" width="50" height="10" as="geometry" />
         </mxCell>
         <mxCell id="DzEGcUg4Fncy94uy2uDy-67" value="roomID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=3;" parent="1" vertex="1">
-          <mxGeometry x="175" y="920" width="50" height="10" as="geometry" />
+          <mxGeometry x="170" y="840" width="50" height="10" as="geometry" />
         </mxCell>
         <mxCell id="DzEGcUg4Fncy94uy2uDy-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="LtUKKO1fS4CYccdswrtj-13" target="DzEGcUg4Fncy94uy2uDy-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -224,7 +227,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DzEGcUg4Fncy94uy2uDy-68" value="学员上课" style="rounded=0;whiteSpace=wrap;html=1;fontSize=3;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1170" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LtUKKO1fS4CYccdswrtj-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DzEGcUg4Fncy94uy2uDy-71" target="LtUKKO1fS4CYccdswrtj-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -233,49 +236,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DzEGcUg4Fncy94uy2uDy-71" value="直播详细" style="rounded=0;whiteSpace=wrap;html=1;fontSize=3;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1430" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LtUKKO1fS4CYccdswrtj-3" value="达芙妮提供上课信息" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fontSize=3;" parent="1" vertex="1">
-          <mxGeometry x="330" y="1050" width="120" height="80" as="geometry" />
+          <mxGeometry x="325" y="970" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LtUKKO1fS4CYccdswrtj-5" value="达芙妮管理" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fontSize=3;" parent="1" vertex="1">
-          <mxGeometry x="330" y="940" width="120" height="80" as="geometry" />
+          <mxGeometry x="325" y="860" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LtUKKO1fS4CYccdswrtj-7" value="达芙妮发起" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fontSize=3;" parent="1" vertex="1">
-          <mxGeometry x="330" y="830" width="120" height="80" as="geometry" />
+          <mxGeometry x="325" y="750" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LtUKKO1fS4CYccdswrtj-9" value="学员端" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fontSize=3;" parent="1" vertex="1">
-          <mxGeometry x="330" y="1160" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="1360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LtUKKO1fS4CYccdswrtj-11" value="达芙妮" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fontSize=3;" parent="1" vertex="1">
-          <mxGeometry x="330" y="1420" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="1620" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LtUKKO1fS4CYccdswrtj-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LtUKKO1fS4CYccdswrtj-13" target="LtUKKO1fS4CYccdswrtj-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LtUKKO1fS4CYccdswrtj-13" value="请求直播信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=3;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1300" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LtUKKO1fS4CYccdswrtj-15" value="resourceid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="155" y="1250" width="70" height="20" as="geometry" />
+          <mxGeometry x="145" y="1450" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LtUKKO1fS4CYccdswrtj-16" value="资源服务" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fontSize=3;" parent="1" vertex="1">
-          <mxGeometry x="330" y="1290" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="1490" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LtUKKO1fS4CYccdswrtj-18" value="直播ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="175" y="1380" width="50" height="20" as="geometry" />
+          <mxGeometry x="165" y="1580" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LtUKKO1fS4CYccdswrtj-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LtUKKO1fS4CYccdswrtj-19" target="LtUKKO1fS4CYccdswrtj-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LtUKKO1fS4CYccdswrtj-19" value="播放地址" style="rounded=0;whiteSpace=wrap;html=1;fontSize=3;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1570" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="1770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LtUKKO1fS4CYccdswrtj-21" value="直播服务" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fontSize=3;" parent="1" vertex="1">
-          <mxGeometry x="330" y="1560" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="1760" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LtUKKO1fS4CYccdswrtj-23" value="roomid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="175" y="1520" width="50" height="20" as="geometry" />
+          <mxGeometry x="165" y="1720" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LtUKKO1fS4CYccdswrtj-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LtUKKO1fS4CYccdswrtj-33" target="LtUKKO1fS4CYccdswrtj-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -284,13 +287,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LtUKKO1fS4CYccdswrtj-33" value="达芙妮修改直播" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="1860" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LtUKKO1fS4CYccdswrtj-34" value="同步到直播平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="2000" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LtUKKO1fS4CYccdswrtj-36" value="同步给财经云" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="1860" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LtUKKO1fS4CYccdswrtj-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.233;entryY=0.563;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-6" target="DzEGcUg4Fncy94uy2uDy-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -385,6 +388,18 @@
         </mxCell>
         <mxCell id="iNOOzH1yUP5gLEz1Xqjm-38" value="her_media_live" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="415" y="2320" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iNOOzH1yUP5gLEz1Xqjm-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iNOOzH1yUP5gLEz1Xqjm-40" target="iNOOzH1yUP5gLEz1Xqjm-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iNOOzH1yUP5gLEz1Xqjm-40" value="通知达芙妮上课" style="rounded=0;whiteSpace=wrap;html=1;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="125" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iNOOzH1yUP5gLEz1Xqjm-42" value="达芙妮准备上课信息&lt;br&gt;设置分组&lt;br&gt;设置缓存" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iNOOzH1yUP5gLEz1Xqjm-44" value="roomid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1070" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
