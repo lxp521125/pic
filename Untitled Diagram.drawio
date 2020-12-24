@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T03:44:16.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="VgeRTHFsjQY-z_nECR5A" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-24T05:24:23.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="P5N9zEJxC0TuJj49jLXs" version="14.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
         <mxCell id="58U677NeKVBxzKTok-jc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="58U677NeKVBxzKTok-jc-2" target="58U677NeKVBxzKTok-jc-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="58U677NeKVBxzKTok-jc-14" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="58U677NeKVBxzKTok-jc-2" target="58U677NeKVBxzKTok-jc-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="58U677NeKVBxzKTok-jc-2" value="拉取每日计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="310" width="120" height="60" as="geometry" />
         </mxCell>
@@ -39,8 +42,38 @@
         <mxCell id="58U677NeKVBxzKTok-jc-3" value="计算当前周" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="58U677NeKVBxzKTok-jc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="58U677NeKVBxzKTok-jc-5" target="58U677NeKVBxzKTok-jc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="58U677NeKVBxzKTok-jc-5" value="拉取用户的课程配置信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="58U677NeKVBxzKTok-jc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="58U677NeKVBxzKTok-jc-7" target="58U677NeKVBxzKTok-jc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="58U677NeKVBxzKTok-jc-7" value="获取当前用户的阶段对应的大纲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="58U677NeKVBxzKTok-jc-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="58U677NeKVBxzKTok-jc-9" target="58U677NeKVBxzKTok-jc-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="58U677NeKVBxzKTok-jc-9" value="获取当前周内的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="58U677NeKVBxzKTok-jc-13" value="返回本周的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="58U677NeKVBxzKTok-jc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="58U677NeKVBxzKTok-jc-15" target="58U677NeKVBxzKTok-jc-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="58U677NeKVBxzKTok-jc-15" value="获取本周内私教的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="58U677NeKVBxzKTok-jc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="58U677NeKVBxzKTok-jc-18" target="58U677NeKVBxzKTok-jc-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="58U677NeKVBxzKTok-jc-18" value="拼装数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
