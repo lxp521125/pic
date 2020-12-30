@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T11:24:01.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="6nWqZsvI3nFcNU5XKwFc" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-30T01:22:13.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="mCPAPcc3qvDQ-Bjt_F26" version="14.1.2" type="github">
   <diagram id="xe28xnixo2NTm2ffLTH5" name="Page-1">
     <mxGraphModel dx="2012" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jewvl0w6D_q5FNkcWG2r-77" value="任务【带状态】" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="750" width="140" height="286" as="geometry" />
+          <mxGeometry x="-250" y="770" width="140" height="286" as="geometry" />
         </mxCell>
         <mxCell id="jewvl0w6D_q5FNkcWG2r-78" value="+ 任务类型：补课，课外" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="jewvl0w6D_q5FNkcWG2r-77">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -200,6 +200,21 @@
               <mxPoint x="-280" y="509" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jewvl0w6D_q5FNkcWG2r-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jewvl0w6D_q5FNkcWG2r-94" target="jewvl0w6D_q5FNkcWG2r-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jewvl0w6D_q5FNkcWG2r-94" value="获取用户能学习的大纲" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jewvl0w6D_q5FNkcWG2r-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jewvl0w6D_q5FNkcWG2r-95" target="jewvl0w6D_q5FNkcWG2r-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jewvl0w6D_q5FNkcWG2r-95" value="判断是在时间内的大纲" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jewvl0w6D_q5FNkcWG2r-97" value="获取某些天的课" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
