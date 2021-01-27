@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T06:15:39.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="HqDgi9nIerOVy-nr9_Y2" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T08:01:11.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="jsyKa4hpVimL5S01ALFF" version="14.2.7" type="github">
   <diagram id="w9GbV70jerafseZ_XRnR" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OkeaM4dLMia3jtiASi19-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OkeaM4dLMia3jtiASi19-2" target="OkeaM4dLMia3jtiASi19-3">
+        <mxCell id="OkeaM4dLMia3jtiASi19-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OkeaM4dLMia3jtiASi19-2" target="OkeaM4dLMia3jtiASi19-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="270" y="190" />
@@ -12,10 +12,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-2" value="直播平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="OkeaM4dLMia3jtiASi19-2" value="直播平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="120" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OkeaM4dLMia3jtiASi19-3" target="OkeaM4dLMia3jtiASi19-4">
+        <mxCell id="OkeaM4dLMia3jtiASi19-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OkeaM4dLMia3jtiASi19-3" target="OkeaM4dLMia3jtiASi19-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="480" y="280" />
@@ -23,22 +23,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-3" value="hermes" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="OkeaM4dLMia3jtiASi19-3" value="hermes" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="120" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-12" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;" vertex="1" parent="OkeaM4dLMia3jtiASi19-3">
+        <mxCell id="OkeaM4dLMia3jtiASi19-12" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;" parent="OkeaM4dLMia3jtiASi19-3" vertex="1">
           <mxGeometry x="50" y="70" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-4" value="财经云资源中心" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="OkeaM4dLMia3jtiASi19-4" value="财经云资源中心" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="120" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-6" value="通知有剪辑版回放+recordId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="OkeaM4dLMia3jtiASi19-6" value="通知有剪辑版回放+recordId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="170" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-8" value="通知资源状态变更，增加剪辑ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="OkeaM4dLMia3jtiASi19-8" value="通知资源状态变更，增加剪辑ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="260" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OkeaM4dLMia3jtiASi19-10" target="OkeaM4dLMia3jtiASi19-11">
+        <mxCell id="OkeaM4dLMia3jtiASi19-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OkeaM4dLMia3jtiASi19-10" target="OkeaM4dLMia3jtiASi19-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="900" y="200" />
@@ -46,7 +46,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OkeaM4dLMia3jtiASi19-10" target="OkeaM4dLMia3jtiASi19-22">
+        <mxCell id="OkeaM4dLMia3jtiASi19-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OkeaM4dLMia3jtiASi19-10" target="OkeaM4dLMia3jtiASi19-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1100" y="350" />
@@ -54,10 +54,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-10" value="学员端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="OkeaM4dLMia3jtiASi19-10" value="学员端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="120" width="100" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OkeaM4dLMia3jtiASi19-11" target="OkeaM4dLMia3jtiASi19-10">
+        <mxCell id="OkeaM4dLMia3jtiASi19-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OkeaM4dLMia3jtiASi19-11" target="OkeaM4dLMia3jtiASi19-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="910" y="250" />
@@ -65,28 +65,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-11" value="g-study" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="OkeaM4dLMia3jtiASi19-11" value="g-study" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="780" y="120" width="100" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-13" value="自己更新状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="OkeaM4dLMia3jtiASi19-13" value="自己更新状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="210" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-15" value="看直播回放，状态是有剪辑版" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="OkeaM4dLMia3jtiASi19-15" value="看直播回放，状态是有剪辑版" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="280" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-17" value="返回的资源信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="OkeaM4dLMia3jtiASi19-17" value="返回的资源信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="230" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-18" value="学习资源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="OkeaM4dLMia3jtiASi19-18" value="学习资源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="180" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-19" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;" vertex="1" parent="1">
+        <mxCell id="OkeaM4dLMia3jtiASi19-19" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;" parent="1" vertex="1">
           <mxGeometry x="1000" y="250" width="10" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-21" value="用recordID获取到回放的地址&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="OkeaM4dLMia3jtiASi19-21" value="用recordID获取到回放的地址&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1050" y="330" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OkeaM4dLMia3jtiASi19-22" target="OkeaM4dLMia3jtiASi19-24">
+        <mxCell id="OkeaM4dLMia3jtiASi19-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OkeaM4dLMia3jtiASi19-22" target="OkeaM4dLMia3jtiASi19-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1350" y="380" />
@@ -94,7 +94,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OkeaM4dLMia3jtiASi19-22" target="OkeaM4dLMia3jtiASi19-10">
+        <mxCell id="OkeaM4dLMia3jtiASi19-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OkeaM4dLMia3jtiASi19-22" target="OkeaM4dLMia3jtiASi19-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1120" y="440" />
@@ -102,10 +102,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-22" value="hermes" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="OkeaM4dLMia3jtiASi19-22" value="hermes" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="1191" y="120" width="100" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OkeaM4dLMia3jtiASi19-24" target="OkeaM4dLMia3jtiASi19-22">
+        <mxCell id="OkeaM4dLMia3jtiASi19-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OkeaM4dLMia3jtiASi19-24" target="OkeaM4dLMia3jtiASi19-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1340" y="410" />
@@ -113,14 +113,76 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-24" value="直播平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="OkeaM4dLMia3jtiASi19-24" value="直播平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="1410" y="120" width="100" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-26" value="用recordID获取到回放的地址&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="OkeaM4dLMia3jtiASi19-26" value="用recordID获取到回放的地址&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="360" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OkeaM4dLMia3jtiASi19-29" value="不同清晰度的M3U8地址" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="OkeaM4dLMia3jtiASi19-29" value="不同清晰度的M3U8地址" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="420" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtc8q0G87PDVYqmS_O2o-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mtc8q0G87PDVYqmS_O2o-3" target="Mtc8q0G87PDVYqmS_O2o-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="215" y="665" />
+              <mxPoint x="215" y="665" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mtc8q0G87PDVYqmS_O2o-3" value="学员端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="560" width="100" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtc8q0G87PDVYqmS_O2o-10" value="用recordID+时间上报&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="645" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtc8q0G87PDVYqmS_O2o-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mtc8q0G87PDVYqmS_O2o-13" target="Mtc8q0G87PDVYqmS_O2o-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="455" y="685" />
+              <mxPoint x="455" y="685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mtc8q0G87PDVYqmS_O2o-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mtc8q0G87PDVYqmS_O2o-13" target="Mtc8q0G87PDVYqmS_O2o-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="605" y="830" />
+              <mxPoint x="605" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mtc8q0G87PDVYqmS_O2o-13" value="hermes" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="306" y="560" width="100" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtc8q0G87PDVYqmS_O2o-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mtc8q0G87PDVYqmS_O2o-15" target="Mtc8q0G87PDVYqmS_O2o-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="485" y="750" />
+              <mxPoint x="485" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mtc8q0G87PDVYqmS_O2o-15" value="直播平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="560" width="100" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtc8q0G87PDVYqmS_O2o-16" value="转发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="665" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtc8q0G87PDVYqmS_O2o-18" value="异步通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="750" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtc8q0G87PDVYqmS_O2o-19" value="财经云" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="705" y="560" width="100" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtc8q0G87PDVYqmS_O2o-20" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;" vertex="1" parent="1">
+          <mxGeometry x="359" y="750" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtc8q0G87PDVYqmS_O2o-21" value="处理进度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="780" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtc8q0G87PDVYqmS_O2o-24" value="通知进度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="830" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
