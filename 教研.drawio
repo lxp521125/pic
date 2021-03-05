@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T07:26:56.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="f94-IGI0Z22jHij0ruTc" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-05T08:14:38.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="hLjHqes5CQVStStpEXJ4" version="14.4.3" type="github">
   <diagram id="RsZf26xCa4anYN9l-bxN" name="Page-1">
     <mxGraphModel dx="1587" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="qDOa6Ft7eeUIBLufLoZr-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDOa6Ft7eeUIBLufLoZr-2" target="qDOa6Ft7eeUIBLufLoZr-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qDOa6Ft7eeUIBLufLoZr-2" value="base.gaodun.com/care&lt;br&gt;carefree.gaodun.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qDOa6Ft7eeUIBLufLoZr-2" value="qasys.gaodun.com&lt;br&gt;base.gaodun.com/care&lt;br&gt;carefree.gaodun.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="250" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qDOa6Ft7eeUIBLufLoZr-4" value="教研平台处理&lt;br&gt;teaching-workbench.gaodun.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -38,13 +38,13 @@
           <mxGeometry x="430" y="250" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qDOa6Ft7eeUIBLufLoZr-16" value="gaodun&lt;br&gt;carefree" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="870" width="140" height="120" as="geometry" />
+          <mxGeometry x="460" y="930" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qDOa6Ft7eeUIBLufLoZr-19" value="redis" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="910" width="60" height="60" as="geometry" />
+          <mxGeometry x="350" y="950" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qDOa6Ft7eeUIBLufLoZr-21" value="kafka" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="240" y="900" width="60" height="80" as="geometry" />
+          <mxGeometry x="240" y="940" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qDOa6Ft7eeUIBLufLoZr-22" value="base.gaodun.com&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;2c2g*8" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="75" y="700" width="200" height="70" as="geometry" />
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="qDOa6Ft7eeUIBLufLoZr-25" value="teaching-workbench.gaodun.com&amp;nbsp; &amp;nbsp;1c3g*4" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="550" y="700" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qDOa6Ft7eeUIBLufLoZr-27" value="qasys.gaodun.com&amp;nbsp; 非pod" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="74" y="800" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
