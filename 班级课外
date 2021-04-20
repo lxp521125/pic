@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T08:25:03.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="oNIADKrF8TuFCMlwyIm7" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-20T08:58:51.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_IVXBJl8LoYYfiXvixkP" version="14.5.8" type="github">
   <diagram id="WICmuHc9ikKSipi34Iol" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,6 +83,15 @@
         </mxCell>
         <mxCell id="NsXPBKWlhZWyRcvmRWDb-25" value="2. 到发布时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="200" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NsXPBKWlhZWyRcvmRWDb-26" value="&lt;h1&gt;1.创建作业&lt;/h1&gt;&lt;p&gt;2种类型&lt;/p&gt;&lt;p&gt;1.及时消息，立即发送&lt;/p&gt;&lt;p&gt;2.未来消息，走定时脚本到时间发送&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="510" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="NsXPBKWlhZWyRcvmRWDb-28" value="&lt;h1&gt;3.&amp;nbsp;通知发送作业&lt;/h1&gt;&lt;p&gt;带上需要的参数以及通知完成的业务ID&lt;/p&gt;&lt;p&gt;&lt;span&gt;im通知成功是不是可以带上这个ID&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;参数：试卷ID，班级ID，以及对应班级的人员ID，&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="590" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NsXPBKWlhZWyRcvmRWDb-29" value="&lt;h1&gt;4.写入库作业&lt;/h1&gt;&lt;p&gt;写主要的任务，找到人员，批量的写入&lt;/p&gt;&lt;p&gt;等写完发消息&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="740" width="250" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
